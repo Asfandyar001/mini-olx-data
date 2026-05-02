@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "title": "iPhone 11",
+      "price": 85000,
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "title": "Bike 125",
+      "price": 120000,
+      "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39"
+    }
+  ]
+}
