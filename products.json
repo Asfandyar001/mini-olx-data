@@ -6,9 +6,39 @@
       "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
     },
     {
-      "title": "Bike 125",
-      "price": 120000,
+      "title": "Honda CG 125",
+      "price": 125000,
       "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39"
+    },
+    {
+      "title": "Dell Latitude Laptop",
+      "price": 95000,
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    {
+      "title": "Samsung Galaxy S21",
+      "price": 110000,
+      "image": "https://images.unsplash.com/photo-1610945265064-0e34e5519bbf"
+    },
+    {
+      "title": "Apple AirPods Pro",
+      "price": 45000,
+      "image": "https://images.unsplash.com/photo-1585386959984-a41552231693"
+    },
+    {
+      "title": "Gaming Chair",
+      "price": 30000,
+      "image": "https://images.unsplash.com/photo-1616627981356-4c4c1f4b3b55"
+    },
+    {
+      "title": "Office Desk",
+      "price": 22000,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc"
+    },
+    {
+      "title": "Mountain Bike",
+      "price": 60000,
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38"
     }
   ]
 }
